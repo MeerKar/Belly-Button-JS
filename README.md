@@ -12,7 +12,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 THe link to the dashboard is as follows. file:///Users/meeragnair/Desktop/JS%20/Belly-Button-JS/Starter_Code%203/StarterCode/index.html
 
 
-
 1.  For this the D3 library is used to read in "samples.json" from the URL "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json".
 
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/116701851/227072115-2ce9ec05-fdf1-4b15-b2cc-b9322c9d712f.png">
